@@ -1,3 +1,13 @@
+Hey Diego, hope you're good. Wanted to ask if you help protocols out with development as well on a contractual basis or you're fully committed at this stage?
+
+Cheers,
+Nikolay Shabak
+Product Manager, https://www.clip.finance/
+https://github.com/shabak
+https://twitter.com/nikolayshabak
+
+
+
 # Cool Ideas
 
 Very commonly I notice inefficiencies in the market and come up with protocols that would be really cool to build. However I want to stay very focused on defillama and I don't have time to actually build these other ideas.
